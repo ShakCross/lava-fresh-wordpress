@@ -1,1 +1,0 @@
-var kirki={initialized:false,initialize:function(){var self=this;if(self.initialized){return}setTimeout(function(){kirki.util.webfonts.standard.initialize();kirki.util.webfonts.google.initialize()},150);self.initialized=true}};kirki.initialize();

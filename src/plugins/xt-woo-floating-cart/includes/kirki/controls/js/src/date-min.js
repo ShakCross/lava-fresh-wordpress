@@ -1,1 +1,0 @@
-wp.customize.controlConstructor["kirki-date"]=wp.customize.kirkiDynamicControl.extend({initKirkiControl:function(){var control=this,selector=control.selector+" input.datepicker";jQuery(selector).datepicker({dateFormat:"yy-mm-dd"});this.container.on("change keyup paste","input.datepicker",function(){control.setting.set(jQuery(this).val())})}});
