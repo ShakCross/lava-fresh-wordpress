@@ -18,10 +18,10 @@
 							<!-- social-icon -->
 							<ul class="social-icon-footer">
 								<li>
-									<a href="#" class="icon-facebook-logo"></a>
+									<a href="https://www.facebook.com/Lavafresh-204199293323312/" class="icon-facebook-logo"></a>
 								</li>
 								<li>
-									<a href="#" class="icon-instagram-social-network-logo-of-photo-camera"></a>
+									<a href="https://www.instagram.com/lavafresh.lima.peru/" class="icon-instagram-social-network-logo-of-photo-camera"></a>
 								</li>
 							</ul>
 							<!-- /social-icon -->
